@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/flask-tag-recommender.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/flask-tag-recommender)
+
 # flask-tag-recommender
 
 (will be cleaned later)
